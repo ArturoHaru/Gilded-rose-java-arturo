@@ -40,15 +40,30 @@ CommonItem -> Item:
     sellIn and quality decreases each day
     quality is max 50
 
-Aged Brie -> CommonItem:
-    increases in quality every day
+ImprovingItem -> CommonItem:
+    +1 quality every day
+
+BackstagePasse -> ImprovingItem:
+    if 10>sellIn>5: +2 quality every day
+    if sellIn<5: +3 quality every day
+    if sellin = 0: quality = 0
 
 LegendaryItem -> Item:
     never has to be sold
     never decreases in quality
 
-BackstageTicket -> CommonItems:
-    
 
-Sulfuras is an object of LegendaryItem
+ConjuredItem -> Item:
+    -2 quality each day
+-
+Sulfuras should be an object of LegendaryItem
     quality = 80
+
+AgedBrie should be an object of ImprovingItem
+
+but to make code compatible with the previous one I will have to
+make them classes and give them names
+
+
+I cannot implement methods to the Item class so I will derive
+an abstract class from it and use it as new
