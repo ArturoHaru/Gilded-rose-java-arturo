@@ -6,9 +6,9 @@ It's a refactoring assignment excercise.
 This is the original repo: https://github.com/emilybache/GildedRose-Refactoring-Kata.git 
 
 # Disclamer
-This repo is done by my interpretation of the assignment of the Gilded Rose, java version.
+This repo is my interpretation of the assignment of the Gilded Rose, java version.
 
-I do not claim this is the only correct way as there are multiple right solutions and interpretation for this problem. 
+I do not claim this is the only correct way (or correct at all) as there could be multiple right solutions and interpretation for this problem.
 
 # How did I do?
 - I analized and translated the assignment into data descriptions in a way that worked for me such as:
