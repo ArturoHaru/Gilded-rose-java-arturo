@@ -10,7 +10,7 @@ This repo is my interpretation of the assignment of the Gilded Rose, java versio
 
 I do not claim this is the only correct way (or correct at all) as there could be multiple right solutions and interpretation for this problem.
 
-# How did I do?
+# What did I do?
 - I analized and translated the assignment into data descriptions in a way that worked for me such as:
 ```
 Items: 
