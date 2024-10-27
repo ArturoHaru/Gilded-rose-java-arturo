@@ -57,5 +57,5 @@ This way the updateQuality method inside the GildedRose code will be as short as
 
 # What I'm unhappy with
 
-I don't know if I was allowed to edit the type of the array in the GildedRose class. (from Item to SellingItem)
+I don't know if I was allowed to edit the type of the array in the GildedRose class. (from Item to ForSaleItem)
 I'm open to suggestions.
