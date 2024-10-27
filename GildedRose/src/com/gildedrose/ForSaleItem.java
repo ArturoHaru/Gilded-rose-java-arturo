@@ -1,7 +1,7 @@
 package com.gildedrose;
 
-public abstract class SellingItem extends Item{
-    public SellingItem(String name, int sellIn, int quality) {
+public abstract class ForSaleItem extends Item{
+    public ForSaleItem(String name, int sellIn, int quality) {
         super(name, sellIn, quality);
     }
 

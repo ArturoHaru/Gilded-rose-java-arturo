@@ -11,5 +11,4 @@ public class ConjuredItem extends CommonItem{
         quality-=2;
     }
 
-    
 }

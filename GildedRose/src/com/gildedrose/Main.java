@@ -7,6 +7,6 @@ import javax.swing.text.GlyphView;
  */
 public class Main {
     public static void main(String[] args) {
-        //test code
+        //code
     }
 }

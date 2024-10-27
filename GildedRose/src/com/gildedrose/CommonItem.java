@@ -1,6 +1,6 @@
 package com.gildedrose;
 
-public class CommonItem extends SellingItem{
+public class CommonItem extends ForSaleItem{
 
     final int MAX_QUALITY = 50;
     final int MIN_SELLIN = 0;
