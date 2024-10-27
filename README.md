@@ -1,5 +1,5 @@
-# Gilded-rose-java-arturo
-Gilded rose java refactoring exercise done by Arturo
+# Gilded-rose-java
+Gilded rose java refactoring kata
 
 # What is this?
 It's a refactoring assignment excercise.
